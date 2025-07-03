@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# jGRASP-specific files
+*.gpj
+*.bak
+
+# IDE junk
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log and output files
+weights.txt
+predict.txt
