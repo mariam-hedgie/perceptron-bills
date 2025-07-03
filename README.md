@@ -31,18 +31,19 @@ This project implements a simple **Perceptron** binary classifier in Java to dis
    ``` java ProjectB
    ```
 
-The program will:
-	•	Train the perceptron on training.txt
-	•	Generate weights.txt with weight updates
-	•	Classify records in validate.txt
-	•	Write results to predict.txt
-	•	Print accuracy to the console
+The program will: <br>
+	•	Train the perceptron on training.txt <br>
+	•	Generate weights.txt with weight updates <br>
+	•	Classify records in validate.txt <br>
+	•	Write results to predict.txt <br>
+	•	Print accuracy to the console <br>
 
 ---
 
 ## 🎯 Sample Output
 With the provided training and validation files:
-```Correct predictions: 264  
+```
+Correct predictions: 264  
 Incorrect predictions: 60  
 Percent correct: 81.48%
 ```
