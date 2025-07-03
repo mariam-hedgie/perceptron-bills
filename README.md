@@ -28,7 +28,8 @@ This project implements a simple **Perceptron** binary classifier in Java to dis
    javac ProjectB.java
    ```
 4. Run the program:
-   ``` java ProjectB
+   ```
+   java ProjectB
    ```
 
 The program will: <br>
